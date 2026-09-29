@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.engine
+*.onnx
+results/
+*.csv
+*.mp4
+*.log
+.env
